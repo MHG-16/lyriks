@@ -2,7 +2,7 @@
 
 Develop an elegant React.js Music Application. 
 
-Check out the complete project requirements [here](https://docs.google.com/document/d/13PeFwRlPEhMw_HPyrIrInvQuKaVWnpNmcv-y3NA208s/edit?usp=sharing)
+Check out the complete project requirements [here](https://docs.google.com/document/d/1MW8ESaoMus8C7auCkx77cltZSG1hBvFhNRbD-LUGrik/edit?usp=sharing)
 
 # Contributing
 
@@ -51,13 +51,13 @@ To set up a development environment, please follow these steps:
 1. Clone the repo
 
    ```shell
-    git clone https://github.com/JavaScript-Mastery-PRO/project1_team4_repository.git
+    git clone https://github.com/MHG-16/lyriks.git
    ```
 
 2. Change directory to the project directory
 
     ```shell
-    cd project1_team4_repository
+    cd lyriks
     ```
 
 3. Install the dependencies
@@ -82,7 +82,7 @@ To set up a development environment, please follow these steps:
 
 ## Issues
 
-You've found a bug in the source code, a mistake in the documentation or maybe you'd like a new feature? You can help us by [submitting an issue on GitHub](https://github.com/orgs/JavaScript-Mastery-PRO/projects/8). Before you create an issue, make sure to search the issue archive -- your issue may have already been addressed!
+You've found a bug in the source code, a mistake in the documentation or maybe you'd like a new feature? You can help us by [submitting an issue on GitHub](https://github.com/MHG-16/lyriks.git). Before you create an issue, make sure to search the issue archive -- your issue may have already been addressed!
 
 Please try to create bug reports that are:
 
@@ -123,7 +123,7 @@ Here we are going to focus on 2. Creating a Topical Branch:
 
 3. To create a pull request, you must have changes committed to your new branch.
 
-4. Go to [Pull Requests](https://github.com/JavaScript-Mastery-PRO/project1_team4_repository/pulls) and click on the `New Pull Request` button.
+4. Go to [Pull Requests](https://github.com/MHG-16/lyriks.git/pulls) and click on the `New Pull Request` button.
 
 5. Select the `main` branch as the `base` branch and the `jsm-dev` branch as the `compare` branch.
 
